@@ -1,0 +1,7 @@
+{
+  "extends": "@8axiss/tsconfig",
+  "compilerOptions": {
+    "outDir": "dist"
+  },
+  "include": ["src"]
+}
